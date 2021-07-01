@@ -52,7 +52,7 @@ class cfgWeapons
 		};
 		magazines[]=
 		{
-			"Mag_STANAG_30Rnd"
+			"Mag_STANAG_30Rnd",
 			"Mag_STANAGCoupled_30Rnd",
 			"Mag_CMAG_10Rnd",
 			"Mag_CMAG_20Rnd",
