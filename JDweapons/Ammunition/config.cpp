@@ -7,8 +7,8 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"DZ_Data",
-			"DZ_Weapons_Firearms",
-			"TWO_Scripts"
+			"DZ_Weapons_Firearms"
+			
 		};
 	};
 };
