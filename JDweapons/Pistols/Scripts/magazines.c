@@ -1,1 +1,0 @@
-class BlackoutWE_Mag_Makarov_12Rnd: MagazineStorage {};

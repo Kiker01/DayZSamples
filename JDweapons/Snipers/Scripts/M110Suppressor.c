@@ -6,7 +6,6 @@ class JD_New_M110_Suppressor extends Inventory_Base
         {
             return true;
         }
-        
         return super.CanPutAsAttachment(parent);
     }
 	override bool CanDetachAttachment( EntityAI attachment )

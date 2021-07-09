@@ -4,4 +4,4 @@ class JD_PDWR_Base : AKM_Base
 	{
 		return new Ak74Recoil(this);
 	}
-}
+};
